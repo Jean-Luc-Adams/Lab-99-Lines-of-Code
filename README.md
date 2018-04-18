@@ -29,4 +29,3 @@
     * The outer loop is picking the friend. For each friend, the inner loop runs for every line of the song.
 ## Submission
 * As usual, make sure you save and then commit and push your work to GitHub.
-

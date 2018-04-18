@@ -1,4 +1,7 @@
+// Array of friends 
 let friends = ['Jimmy', 'Sheen', 'Carl', 'Cindy', 'Libby'];
+
+// Function that sings a song that repeats until completion for each friend
 
 function sing() {
     for (let i = 0; i < friends.length; i++) {
